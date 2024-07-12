@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/Serie.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/bussinesLogic/Serie_bl.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/Usuario.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/controllers/Peliculas_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/bussinesLogic/Pelicula_bl.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/controllers/Series_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/SerieCategoria.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/controllers/Index_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/Categoria.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/Pelicula.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/Rol.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/web/web2/netflix/Services/models/PeliculaCategoria.php</file>
+        </group>
+    </open-files>
+</project-private>
